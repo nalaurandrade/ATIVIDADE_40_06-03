@@ -1,0 +1,14 @@
+C:\Users\anala\OneDrive\Área de Trabalho\atividade40 06-03\atividade40 06-03\bin\Debug\net8.0\atividade40 06-03.exe
+C:\Users\anala\OneDrive\Área de Trabalho\atividade40 06-03\atividade40 06-03\bin\Debug\net8.0\atividade40 06-03.deps.json
+C:\Users\anala\OneDrive\Área de Trabalho\atividade40 06-03\atividade40 06-03\bin\Debug\net8.0\atividade40 06-03.runtimeconfig.json
+C:\Users\anala\OneDrive\Área de Trabalho\atividade40 06-03\atividade40 06-03\bin\Debug\net8.0\atividade40 06-03.dll
+C:\Users\anala\OneDrive\Área de Trabalho\atividade40 06-03\atividade40 06-03\bin\Debug\net8.0\atividade40 06-03.pdb
+C:\Users\anala\OneDrive\Área de Trabalho\atividade40 06-03\atividade40 06-03\obj\Debug\net8.0\atividade40 06-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anala\OneDrive\Área de Trabalho\atividade40 06-03\atividade40 06-03\obj\Debug\net8.0\atividade40 06-03.AssemblyInfoInputs.cache
+C:\Users\anala\OneDrive\Área de Trabalho\atividade40 06-03\atividade40 06-03\obj\Debug\net8.0\atividade40 06-03.AssemblyInfo.cs
+C:\Users\anala\OneDrive\Área de Trabalho\atividade40 06-03\atividade40 06-03\obj\Debug\net8.0\atividade40 06-03.csproj.CoreCompileInputs.cache
+C:\Users\anala\OneDrive\Área de Trabalho\atividade40 06-03\atividade40 06-03\obj\Debug\net8.0\atividade40 06-03.dll
+C:\Users\anala\OneDrive\Área de Trabalho\atividade40 06-03\atividade40 06-03\obj\Debug\net8.0\refint\atividade40 06-03.dll
+C:\Users\anala\OneDrive\Área de Trabalho\atividade40 06-03\atividade40 06-03\obj\Debug\net8.0\atividade40 06-03.pdb
+C:\Users\anala\OneDrive\Área de Trabalho\atividade40 06-03\atividade40 06-03\obj\Debug\net8.0\atividade40 06-03.genruntimeconfig.cache
+C:\Users\anala\OneDrive\Área de Trabalho\atividade40 06-03\atividade40 06-03\obj\Debug\net8.0\ref\atividade40 06-03.dll
